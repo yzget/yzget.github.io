@@ -1,2 +1,2 @@
 # yzget.github.io
-# blog.yzali.top
+# blog.332345.xyz
