@@ -3,11 +3,11 @@
   <title>mi·tu</title>
   
   <subtitle>是非成败转头空，青山依旧在，几度夕阳红！</subtitle>
-  <link href="https://yzget.github.io/atom.xml" rel="self"/>
+  <link href="https://blog.323245.xyz/atom.xml" rel="self"/>
   
-  <link href="https://yzget.github.io/"/>
+  <link href="https://blog.323245.xyz/"/>
   <updated>2023-03-15T04:17:16.844Z</updated>
-  <id>https://yzget.github.io/</id>
+  <id>https://blog.323245.xyz/</id>
   
   <author>
     <name>mi·tu</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://yzget.github.io/posts/3eeb/"/>
-    <id>https://yzget.github.io/posts/3eeb/</id>
+    <link href="https://blog.323245.xyz/posts/3eeb/"/>
+    <id>https://blog.323245.xyz/posts/3eeb/</id>
     <published>2023-03-12T12:20:30.860Z</published>
     <updated>2023-03-15T04:17:16.844Z</updated>
     
@@ -33,17 +33,17 @@
     
     
     
-    <category term="网络" scheme="https://yzget.github.io/categories/%E7%BD%91%E7%BB%9C/"/>
+    <category term="网络" scheme="https://blog.323245.xyz/categories/%E7%BD%91%E7%BB%9C/"/>
     
     
-    <category term="网络" scheme="https://yzget.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
+    <category term="网络" scheme="https://blog.323245.xyz/tags/%E7%BD%91%E7%BB%9C/"/>
     
   </entry>
   
   <entry>
     <title>陈奕迅-k歌之王</title>
-    <link href="https://yzget.github.io/posts/f299/"/>
-    <id>https://yzget.github.io/posts/f299/</id>
+    <link href="https://blog.323245.xyz/posts/f299/"/>
+    <id>https://blog.323245.xyz/posts/f299/</id>
     <published>2023-02-25T08:30:34.000Z</published>
     <updated>2023-03-15T04:15:25.154Z</updated>
     
@@ -57,19 +57,19 @@
     
     
     
-    <category term="音乐" scheme="https://yzget.github.io/categories/%E9%9F%B3%E4%B9%90/"/>
+    <category term="音乐" scheme="https://blog.323245.xyz/categories/%E9%9F%B3%E4%B9%90/"/>
     
     
-    <category term="音乐" scheme="https://yzget.github.io/tags/%E9%9F%B3%E4%B9%90/"/>
+    <category term="音乐" scheme="https://blog.323245.xyz/tags/%E9%9F%B3%E4%B9%90/"/>
     
-    <category term="歌曲" scheme="https://yzget.github.io/tags/%E6%AD%8C%E6%9B%B2/"/>
+    <category term="歌曲" scheme="https://blog.323245.xyz/tags/%E6%AD%8C%E6%9B%B2/"/>
     
   </entry>
   
   <entry>
     <title>win10Alist安装步骤</title>
-    <link href="https://yzget.github.io/posts/4963/"/>
-    <id>https://yzget.github.io/posts/4963/</id>
+    <link href="https://blog.323245.xyz/posts/4963/"/>
+    <id>https://blog.323245.xyz/posts/4963/</id>
     <published>2023-02-24T08:22:39.000Z</published>
     <updated>2023-03-15T04:52:15.883Z</updated>
     
@@ -83,19 +83,19 @@
     
     
     
-    <category term="网络" scheme="https://yzget.github.io/categories/%E7%BD%91%E7%BB%9C/"/>
+    <category term="网络" scheme="https://blog.323245.xyz/categories/%E7%BD%91%E7%BB%9C/"/>
     
     
-    <category term="网络" scheme="https://yzget.github.io/tags/%E7%BD%91%E7%BB%9C/"/>
+    <category term="网络" scheme="https://blog.323245.xyz/tags/%E7%BD%91%E7%BB%9C/"/>
     
-    <category term="云盘" scheme="https://yzget.github.io/tags/%E4%BA%91%E7%9B%98/"/>
+    <category term="云盘" scheme="https://blog.323245.xyz/tags/%E4%BA%91%E7%9B%98/"/>
     
   </entry>
   
   <entry>
     <title>疫情后遗症</title>
-    <link href="https://yzget.github.io/posts/7899/"/>
-    <id>https://yzget.github.io/posts/7899/</id>
+    <link href="https://blog.323245.xyz/posts/7899/"/>
+    <id>https://blog.323245.xyz/posts/7899/</id>
     <published>2023-02-23T06:52:39.000Z</published>
     <updated>2023-03-15T04:16:59.719Z</updated>
     
@@ -111,12 +111,12 @@
     
     
     
-    <category term="生活" scheme="https://yzget.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://blog.323245.xyz/categories/%E7%94%9F%E6%B4%BB/"/>
     
     
-    <category term="生活" scheme="https://yzget.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    <category term="生活" scheme="https://blog.323245.xyz/tags/%E7%94%9F%E6%B4%BB/"/>
     
-    <category term="闲谈" scheme="https://yzget.github.io/tags/%E9%97%B2%E8%B0%88/"/>
+    <category term="闲谈" scheme="https://blog.323245.xyz/tags/%E9%97%B2%E8%B0%88/"/>
     
   </entry>
   
