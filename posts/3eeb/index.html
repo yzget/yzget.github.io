@@ -246,20 +246,20 @@
 })()</script></div><script src="https://widget.qweather.net/simple/static/js/he-simple-common.js?v=2.0"></script><script async src="/js/weather.js"></script><script async data-pjax src="/js/anzhiyu.js"></script><script async data-pjax src="/js/Meting2.min.js"></script><link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css" media="print" onload="this.media='all'"><script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script><script src="https://cdn.jsdelivr.net/npm/butterfly-extsrc/metingjs/dist/Meting.min.js"></script><script async data-pjax src="//busuanzi.ibruce.info/busuanzi/2.3/busuanzi.pure.mini.js"></script></div><!-- hexo injector body_end start --><script data-pjax>
   function butterfly_clock_anzhiyu_injector_config(){
     var parent_div_git = document.getElementsByClassName('sticky_layout')[0];
-    var item_html = '<div class="card-widget card-clock"><div class="card-glass"><div class="card-background"><div class="card-content"><div id="hexo_electric_clock"><img id="card-clock-loading" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-clock/clock/images/weather/loading.gif" style="height: 120px; width: 100%;" data-ll-status="loading" class="entered loading"></div></div></div></div></div>';
+    var item_html = '<div class="card-widget card-clock"><div class="card-glass"><div class="card-background"><div class="card-content"><div id="hexo_electric_clock"><img class="entered loading" id="card-clock-loading" src= "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" data-lazy-src="https://cdn.jsdelivr.net/gh/Zfour/Butterfly-clock/clock/images/weather/loading.gif" style="height: 120px; width: 100%;" data-ll-status="loading"/></div></div></div></div></div>';
     console.log('已挂载butterfly_clock_anzhiyu')
     if(parent_div_git) {
       parent_div_git.insertAdjacentHTML("afterbegin",item_html)
     }
   }
-  var elist = 'undefined'.split(',');
+  var elist = 'null'.split(',');
   var cpage = location.pathname;
   var epage = 'all';
-  var qweather_key = 'b16a1fa0e63c46a4b8f28abfb06ae3fe';
-  var gaud_map_key = 'e2b04289e870b005374ee030148d64fd&s=rsv3';
+  var qweather_key = '785bef94b78a40be9f64fc1736f91526';
+  var gaud_map_key = '9b7b8fd8282093405a0ca26096efb4e4';
   var baidu_ak_key = 'undefined';
   var flag = 0;
-  var clock_rectangle = '112.6534116,27.96920845';
+  var clock_rectangle = '112.982279,28.19409';
   var clock_default_rectangle_enable = 'false';
 
   for (var i=0;i<elist.length;i++){
